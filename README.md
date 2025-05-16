@@ -64,10 +64,7 @@ playwright-automation-projects/
 ├── project-2-login-data-extraction/
 ├── project-3-form-submission/
 ├── project-4-api-ui-combo/
-├── utils/
-├── pages/
 ├── README.md
-└── .gitignore
 ```
 
 ---
