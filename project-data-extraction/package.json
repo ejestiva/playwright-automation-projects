@@ -1,0 +1,17 @@
+{
+  "name": "data-extraction_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
