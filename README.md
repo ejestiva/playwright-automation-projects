@@ -75,11 +75,8 @@ playwright-automation-projects/
 ## 💡 Why This Repo?
 
 This repo is part of my journey to level up as an automation tester using Playwright.  
-It also acts as a portfolio to showcase practical testing skills — from real-world scenarios to hybrid approaches — all wrapped in clean, scalable code.
+It also acts as a portfolio to showcase practical testing skills, from real-world scenarios to hybrid approaches, all wrapped in clean, scalable code.
 
 ---
 
 > Let’s get testing 🚀  
-```
-
----
