@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 test("Create user via API and verify in UI", async ({ page }) => {
-  const user = await createUser("Eric", "QA Analyst");
+  const user = await createUser("Eric Jan", "QA Analyst");
   console.log(user);
 
   const filePath = "file://" + path.join(__dirname, "../mock-ui/userMock.html");
