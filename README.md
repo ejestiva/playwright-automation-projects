@@ -26,6 +26,12 @@ Each project is structured for clarity and scalability, using the **Page Object 
 - Fills out a contact form with dynamic data.
 - Verifies the success message and handles validation cases.
 
+### 5️⃣ Screenshot & Visual Regression Testing
+
+- Captures UI snapshots from Wikipedia pages.
+- Detects visual changes by comparing screenshots.
+- Uses `toMatchSnapshot()` with Playwright's built-in capabilities.
+- Tests multiple page states (homepage, search results, article view).
 ---
 
 ## 🧠 Tech Stack
